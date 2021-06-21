@@ -1,0 +1,57 @@
+C:\Users\ADD. SEC. MA'AL\source\repos\Stock-Management-System\bin\Debug\net5.0\StockManagementSystem.exe
+C:\Users\ADD. SEC. MA'AL\source\repos\Stock-Management-System\bin\Debug\net5.0\StockManagementSystem.deps.json
+C:\Users\ADD. SEC. MA'AL\source\repos\Stock-Management-System\bin\Debug\net5.0\StockManagementSystem.runtimeconfig.json
+C:\Users\ADD. SEC. MA'AL\source\repos\Stock-Management-System\bin\Debug\net5.0\StockManagementSystem.runtimeconfig.dev.json
+C:\Users\ADD. SEC. MA'AL\source\repos\Stock-Management-System\bin\Debug\net5.0\StockManagementSystem.dll
+C:\Users\ADD. SEC. MA'AL\source\repos\Stock-Management-System\bin\Debug\net5.0\ref\StockManagementSystem.dll
+C:\Users\ADD. SEC. MA'AL\source\repos\Stock-Management-System\bin\Debug\net5.0\StockManagementSystem.pdb
+C:\Users\ADD. SEC. MA'AL\source\repos\Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.csprojAssemblyReference.cache
+C:\Users\ADD. SEC. MA'AL\source\repos\Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADD. SEC. MA'AL\source\repos\Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ADD. SEC. MA'AL\source\repos\Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.AssemblyInfo.cs
+C:\Users\ADD. SEC. MA'AL\source\repos\Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ADD. SEC. MA'AL\source\repos\Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.dll
+C:\Users\ADD. SEC. MA'AL\source\repos\Stock-Management-System\obj\Debug\net5.0\ref\StockManagementSystem.dll
+C:\Users\ADD. SEC. MA'AL\source\repos\Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.pdb
+C:\Users\ADD. SEC. MA'AL\source\repos\Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.genruntimeconfig.cache
+C:\Users\ADD. SEC. MA'AL\Desktop\FullStackTraining\CsharpTraining\Project-Stock-Management-System\bin\Debug\net5.0\StockManagementSystem.exe
+C:\Users\ADD. SEC. MA'AL\Desktop\FullStackTraining\CsharpTraining\Project-Stock-Management-System\bin\Debug\net5.0\StockManagementSystem.deps.json
+C:\Users\ADD. SEC. MA'AL\Desktop\FullStackTraining\CsharpTraining\Project-Stock-Management-System\bin\Debug\net5.0\StockManagementSystem.runtimeconfig.json
+C:\Users\ADD. SEC. MA'AL\Desktop\FullStackTraining\CsharpTraining\Project-Stock-Management-System\bin\Debug\net5.0\StockManagementSystem.runtimeconfig.dev.json
+C:\Users\ADD. SEC. MA'AL\Desktop\FullStackTraining\CsharpTraining\Project-Stock-Management-System\bin\Debug\net5.0\StockManagementSystem.dll
+C:\Users\ADD. SEC. MA'AL\Desktop\FullStackTraining\CsharpTraining\Project-Stock-Management-System\bin\Debug\net5.0\ref\StockManagementSystem.dll
+C:\Users\ADD. SEC. MA'AL\Desktop\FullStackTraining\CsharpTraining\Project-Stock-Management-System\bin\Debug\net5.0\StockManagementSystem.pdb
+C:\Users\ADD. SEC. MA'AL\Desktop\FullStackTraining\CsharpTraining\Project-Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.csprojAssemblyReference.cache
+C:\Users\ADD. SEC. MA'AL\Desktop\FullStackTraining\CsharpTraining\Project-Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADD. SEC. MA'AL\Desktop\FullStackTraining\CsharpTraining\Project-Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ADD. SEC. MA'AL\Desktop\FullStackTraining\CsharpTraining\Project-Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.AssemblyInfo.cs
+C:\Users\ADD. SEC. MA'AL\Desktop\FullStackTraining\CsharpTraining\Project-Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ADD. SEC. MA'AL\Desktop\FullStackTraining\CsharpTraining\Project-Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.dll
+C:\Users\ADD. SEC. MA'AL\Desktop\FullStackTraining\CsharpTraining\Project-Stock-Management-System\obj\Debug\net5.0\ref\StockManagementSystem.dll
+C:\Users\ADD. SEC. MA'AL\Desktop\FullStackTraining\CsharpTraining\Project-Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.pdb
+C:\Users\ADD. SEC. MA'AL\Desktop\FullStackTraining\CsharpTraining\Project-Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.genruntimeconfig.cache
+C:\Users\PC\Desktop\Project-Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Project-Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Project-Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Project-Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.AssemblyInfo.cs
+C:\Users\PC\Desktop\Project-Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Project-Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.dll
+C:\Users\PC\Desktop\Project-Stock-Management-System\obj\Debug\net5.0\ref\StockManagementSystem.dll
+C:\Users\PC\Desktop\Project-Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.pdb
+C:\Users\PC\Desktop\Project-Stock-Management-System\bin\Debug\net5.0\StockManagementSystem.exe
+C:\Users\PC\Desktop\Stock-Management-System\bin\Debug\net5.0\StockManagementSystem.exe
+C:\Users\PC\Desktop\Stock-Management-System\bin\Debug\net5.0\StockManagementSystem.deps.json
+C:\Users\PC\Desktop\Stock-Management-System\bin\Debug\net5.0\StockManagementSystem.runtimeconfig.json
+C:\Users\PC\Desktop\Stock-Management-System\bin\Debug\net5.0\StockManagementSystem.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Stock-Management-System\bin\Debug\net5.0\StockManagementSystem.dll
+C:\Users\PC\Desktop\Stock-Management-System\bin\Debug\net5.0\ref\StockManagementSystem.dll
+C:\Users\PC\Desktop\Stock-Management-System\bin\Debug\net5.0\StockManagementSystem.pdb
+C:\Users\PC\Desktop\Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.AssemblyInfo.cs
+C:\Users\PC\Desktop\Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.dll
+C:\Users\PC\Desktop\Stock-Management-System\obj\Debug\net5.0\ref\StockManagementSystem.dll
+C:\Users\PC\Desktop\Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.pdb
+C:\Users\PC\Desktop\Stock-Management-System\obj\Debug\net5.0\StockManagementSystem.genruntimeconfig.cache
